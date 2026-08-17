@@ -1,0 +1,14 @@
+#pragma once
+
+class HelloTriangleApplication {
+public:
+  void run();
+
+private:
+  void initWindow();
+  void initVulkan();
+  void mainLoop();
+  void cleanup();
+
+  void *window = nullptr;
+};
