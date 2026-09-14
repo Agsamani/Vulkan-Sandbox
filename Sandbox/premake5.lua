@@ -14,6 +14,7 @@ files({
 
 includedirs({
 	"%{wks.location}/Vulframe/src",
+	"%{IncludeDir.Vulkan}",
 })
 
 links({

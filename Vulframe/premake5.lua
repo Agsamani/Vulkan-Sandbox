@@ -33,7 +33,7 @@ includedirs({
 
 libdirs({
 	"%{wks.location}/Vulframe/vendor/GLFW/lib-vc2022",
-	"%{vlk_env_var}/Lib",
+	"%{LibraryDir.Vulkan}",
 })
 links({
 	"glfw3.lib",
