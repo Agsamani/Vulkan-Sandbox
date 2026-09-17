@@ -1,0 +1,13 @@
+[
+          {
+            "directory": "D:/Programming/Vulframe/Vulframe",
+            "file": "D:/Programming/Vulframe/Vulframe/src/HelloTriangleApplication.cpp",
+            "command": "cc -MD -MP -D_CRT_SECURE_NO_WARNINGS -DGLFW_INCLUDE_VULKAN -DVLF_DEBUG -ID:/Programming/Vulframe/Vulframe/src -ID:/Programming/Vulframe/Vulframe/vendor/GLFW/include -ID:/Programming/Vulframe/Vulframe/vendor/glm -IC:\\VulkanSDK\\1.4.321.1/Include -m64 -g -o D:/Programming/Vulframe/bin-int/Debug-windows-x86_64/Vulframe/HelloTriangleApplication.o -MF D:/Programming/Vulframe/bin-int/Debug-windows-x86_64/Vulframe/HelloTriangleApplication.d -c D:/Programming/Vulframe/Vulframe/src/HelloTriangleApplication.cpp"
+          }
+,
+          {
+            "directory": "D:/Programming/Vulframe/Sandbox",
+            "file": "D:/Programming/Vulframe/Sandbox/src/main.cpp",
+            "command": "cc -MD -MP -DVLF_DEBUG -ID:/Programming/Vulframe/Vulframe/src -IC:\\VulkanSDK\\1.4.321.1/Include -m64 -g -o D:/Programming/Vulframe/bin-int/Debug-windows-x86_64/Sandbox/main.o -MF D:/Programming/Vulframe/bin-int/Debug-windows-x86_64/Sandbox/main.d -c D:/Programming/Vulframe/Sandbox/src/main.cpp"
+          }
+]

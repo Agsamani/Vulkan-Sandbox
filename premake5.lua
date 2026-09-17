@@ -1,5 +1,5 @@
 include("Dependencies")
-
+require("premake-export-compile-commands/export-compile-commands")
 workspace("Vulframe")
 architecture("x64")
 startproject("Sandbox")
